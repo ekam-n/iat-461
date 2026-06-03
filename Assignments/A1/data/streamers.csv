@@ -1,0 +1,77 @@
+streamer_id,streamer_name,category,language,partner_status,total_followers,avg_concurrent_viewers
+STR0001,xQc,Just Chatting,English,True,11500000,138706
+STR0002,Pokimane,Just Chatting,English,True,-25551,71660
+STR0003,HasanAbi,Just Chatting,English,True,2600000,34220
+STR0004,Amouranth,Just Chatting,English,True,6200000,68607
+STR0005,Mizkif,Just Chatting,English,True,2100000,6771
+STR0006,QTCinderella,Just Chatting,English,True,950000,13948
+STR0007,Devin_Nash,Just Chatting,English,True,-45130,5114
+STR0008,Ibai,Just Chatting,Spanish,True,-46964,156401
+STR0009,Auronplay,Just Chatting,Spanish,True,14500000,53149
+STR0010,Rubius,Just Chatting,,True,9700000,76193
+STR0011,ElSpreen,Just Chatting,Spanish,True,8200000,55927
+STR0012,Hafu,Just Chatting,English,True,1400000,19667
+STR0013,Fuslie,Just Chatting,English,True,-8902,9540
+STR0014,Valkyrae,Just Chatting,English,True,3700000,46974
+STR0015,DisguisedToast,Just Chatting,English,True,2400000,18634
+STR0016,Trainwreckstv,Just Chatting,English,True,2800000,13871
+STR0017,xChocobars,Just Chatting,English,False,540000,4973
+STR0018,shroud,FPS,English,True,10300000,29145
+STR0019,Tfue,FPS,English,True,11100000,141627
+STR0020,Nickmercs,FPS,English,True,6800000,69439
+STR0021,TimTheTatman,FPS,,True,7200000,85357
+STR0022,Aceu,FPS,English,True,1900000,12556
+STR0023,Teep,FPS,English,False,340000,4970
+STR0024,s1mple,FPS,English,True,3600000,48998
+STR0025,GeT_RiGhT,FPS,English,True,-36135,10785
+STR0026,Symfuhny,FPS,English,True,3200000,14496
+STR0027,Cloakzy,FPS,English,True,2100000,16941
+STR0028,Bugha,FPS,English,True,2900000,7451
+STR0029,Mongraal,FPS,English,True,2600000,10414
+STR0030,Tyler1,MOBA,English,True,5200000,56574
+STR0031,Doublelift,MOBA,,True,1700000,19859
+STR0032,Yassuo,MOBA,English,True,2300000,33528
+STR0033,Faker,MOBA,Korean,True,5800000,36167
+STR0034,Caps,MOBA,English,True,980000,6679
+STR0035,Perkz,MOBA,English,True,670000,5429
+STR0036,Caedrel,MOBA,English,True,1200000,5355
+STR0037,Jankos,MOBA,English,True,780000,2877
+STR0038,Nightblue3,MOBA,,True,2800000,22915
+STR0039,Imaqtpie,MOBA,English,True,2300000,11384
+STR0040,Voyboy,MOBA,English,False,670000,7174
+STR0041,Ludwig,IRL,English,True,4100000,31500
+STR0042,MoistCr1TiKaL,IRL,,True,9800000,125683
+STR0043,Asmongold,IRL,English,True,3500000,38862
+STR0044,Sodapoppin,IRL,English,True,9100000,55152
+STR0045,Nmplol,IRL,English,True,1600000,20511
+STR0046,Stanz,IRL,English,False,410000,5109
+STR0047,ConnorEatsPants,IRL,English,False,380000,2674
+STR0048,Destiny,IRL,,True,1100000,6323
+STR0049,Jinny,IRL,English,True,820000,8915
+STR0050,Jerma985,Creative,English,True,1800000,6870
+STR0051,DougDoug,Creative,English,True,1200000,5518
+STR0052,Northernlion,Creative,English,True,3100000,6496
+STR0053,RTGame,Creative,English,True,1500000,18345
+STR0054,SmallAnt,Creative,English,True,1100000,11707
+STR0055,PointCrow,Creative,English,True,890000,9938
+STR0056,Alpharad,Creative,English,True,760000,9233
+STR0057,Lacari,Creative,English,False,310000,2469
+STR0058,Vinesauce,Creative,English,True,1600000,15029
+STR0059,GrandPOObear,Creative,English,True,720000,2748
+STR0060,Simply,Creative,,False,290000,1011
+STR0061,KaiCenat,Sports,English,True,12300000,131477
+STR0062,IShowSpeed,Sports,English,True,18700000,151923
+STR0063,Gaules,Sports,Portuguese,True,3400000,31783
+STR0064,ESL_CSGO,Sports,,True,4200000,50168
+STR0065,ESLCS,Sports,English,True,2100000,21527
+STR0066,BeyondTheSummit,Sports,English,True,1300000,11955
+STR0067,Tarik,Sports,English,True,3800000,35224
+STR0068,riotgames,Sports,English,True,5100000,30351
+STR0069,NaVi_official,Sports,English,True,1800000,4321
+STR0070,TeamLiquid,Sports,English,True,2200000,16890
+STR0071,Ibai_esports,Sports,Spanish,True,6500000,31132
+STR0072,BobRoss_Twitch,Creative,English,True,940000,6872
+STR0073,Mizkif_chess,Creative,English,False,450000,5892
+STR0074,Pituquistream,Just Chatting,Spanish,True,780000,3932
+STR0075,ProxyPipe,MOBA,English,False,230000,634
+STR0076,BabyTate,FPS,English,False,120000,678
